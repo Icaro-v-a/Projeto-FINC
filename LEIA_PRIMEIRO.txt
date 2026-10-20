@@ -1,0 +1,11 @@
+NEURAL LAB — FINC 2026 | UNIFAN TECNOLOGIAS
+Concepção e desenvolvimento: Prof. Ícaro Vasconcelos Alvim
+
+1. Abra laboratorio_ia_unifan.html em Chrome ou Edge. Funciona sem internet.
+2. Clique em "? Guia do apresentador" para visualizar o roteiro de 3 minutos.
+3. Clique em "Começar demonstração". Siga o painel "▶ SIGA A INSTRUÇÃO".
+4. Para apresentar para outra pessoa, clique em "↻ Novo visitante".
+5. Para projetar, use o botão "Tela cheia" ou F11.
+
+O arquivo GUIA_DO_APRESENTADOR.txt traz as instruções também para impressão.
+Este pacote foi preparado para operação independente, inclusive por monitores.
