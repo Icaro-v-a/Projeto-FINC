@@ -1,0 +1,51 @@
+FINC 2026 | UNIFAN Tecnologias
+NEURAL LAB — VOCÊ CONSEGUE ENSINAR UMA IA?
+Concepção e desenvolvimento: Prof. Ícaro Vasconcelos Alvim
+
+COMO ABRIR
+- Abra "laboratorio_ia_unifan.html" com dois cliques no computador.
+- Use Chrome ou Microsoft Edge. Internet e instalação não são necessárias.
+- Use "Tela cheia" (ou F11) para projetar.
+- Clique em "? Guia do apresentador" para ler estas instruções no próprio aplicativo.
+
+APRESENTAÇÃO EM APROXIMADAMENTE 3 MINUTOS
+
+1) MOSTRE O MAPA (20 s)
+Diga: "Esta IA ainda não sabe reconhecer os alienígenas. PAX tem olhos pequenos;
+ZOG tem olhos grandes. O comprimento das antenas não importa. Os círculos
+representam exemplos que a IA recebeu."
+
+2) TREINE (30 s)
+Os exemplos já vêm prontos. Clique em "TREINAR MINHA IA" e espere terminar.
+Explique: "O fundo colorido mostra como a rede neural classificaria cada ponto."
+IMPORTANTE: 100% no TREINAMENTO NÃO significa que acertará novos exemplos.
+
+3) DEIXE O VISITANTE TESTAR (40 s)
+O modo "TESTAR A IA" fica ativo automaticamente após o treinamento.
+Peça ao visitante que clique em algum lugar vazio do mapa.
+Leia a previsão e compare com a regra real: PAX=olhos pequenos, ZOG=olhos grandes.
+
+4) CORRIJA E APRENDA DE NOVO (30 s)
+Clique em "✓ Ensinar [espécie correta]", mostrado na área de resultados.
+Clique em "TREINAR MINHA IA" novamente. Isso adiciona um exemplo ao aprendizado.
+
+5) MOSTRE A LIMITAÇÃO DOS DADOS (30–45 s; OPCIONAL)
+Clique em "Exemplos limitados", treine e teste na PARTE INFERIOR DIREITA do mapa
+(olhos grandes com antenas curtas). A rede pode errar porque recebeu exemplos
+concentrados em algumas regiões.
+
+6) PRÓXIMO VISITANTE (5 s)
+Clique em "↻ Novo visitante". Os exemplos variados reaparecem e o jogo reinicia.
+
+FALA FINAL
+"Inteligência artificial aprende padrões a partir dos dados. Boas notas no treino
+não garantem acertos em situações novas. Por isso, as decisões humanas sobre
+quais dados ensinar e como testar uma IA continuam importantes."
+
+SOLUÇÕES RÁPIDAS
+- A rede pede mais exemplos? Clique em "↻ Novo visitante" para carregar 16.
+- O visitante quer desenhar outros exemplos? Clique em "DAR EXEMPLOS",
+  selecione PAX ou ZOG e clique no mapa. Depois, treine novamente.
+- Quer começar sem exemplos prontos? Clique em "Começar do zero".
+- Para mostrar as etapas na tela, observe o painel "▶ SIGA A INSTRUÇÃO".
+- O programa é offline: não envia nem armazena fotos, nomes ou voz dos visitantes.
